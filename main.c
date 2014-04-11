@@ -55,7 +55,7 @@ int randGenerate()
 	int locat;
 	int num;
 	srand(time(0));
-	num = (rand()%5;
+	num = rand()%5;
 	if (num != 4)
 		num = 2;
 
